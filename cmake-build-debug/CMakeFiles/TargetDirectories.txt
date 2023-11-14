@@ -1,4 +1,0 @@
-/home/float33/University/5th/LeetCode/cmake-build-debug/CMakeFiles/sort_vowels.dir
-/home/float33/University/5th/LeetCode/cmake-build-debug/CMakeFiles/integer_to_roman.dir
-/home/float33/University/5th/LeetCode/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/float33/University/5th/LeetCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
